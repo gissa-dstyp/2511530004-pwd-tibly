@@ -12,6 +12,11 @@ belajar:
 <li>emet untuk section*2>h2+p di main </li>
 <li>tag p di dalam footer </li>
 <li>ganti title dokumen</li>
-<ol>
+<li>mengisi header<li>
+<li>mengisi main untuk section home, about, kontak</li>
+<li>mengisi footer dengan html entity</li>
+
+
+
 
 
